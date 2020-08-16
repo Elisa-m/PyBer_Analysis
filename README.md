@@ -4,11 +4,11 @@ This analysis showcases the relationships between the number of drivers and ride
 ## Results
 Results are as follows: 
 
-1. Total rides for rural, suburban, and urban were 125, 625, and 1,625, respectively. 
-2. Total drivers for rural, suburban, and urban were 537, 8,570, and 59,602, respectively.
-3. Total fares for rural, suburban, and urban were $4,327.93, $19,356.33, and $39,854.38, respectively.
-4. Average fare per ride for rural, suburban, and urban was $34.62, $30.97, and $24.53, respectively. 
-5. Average fare per driver for rural, suburban, and urban was $8.06, $2.26, and $0.67, respectively. 
+1. Total rides for rural, suburban, and urban were 125; 625; and 1,625, respectively. 
+2. Total drivers for rural, suburban, and urban were 537; 8,570; and 59,602, respectively.
+3. Total fares for rural, suburban, and urban were $4,327.93; $19,356.33; and $39,854.38, respectively.
+4. Average fare per ride for rural, suburban, and urban was $34.62; $30.97; and $24.53, respectively. 
+5. Average fare per driver for rural, suburban, and urban was $8.06; $2.26; and $0.67, respectively. 
 
 ![](Analysis/PyBer_summary.png)
 
