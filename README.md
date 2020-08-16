@@ -18,7 +18,7 @@ Results are as follows:
 
 
 ## Summary 
-Based on the results, here are three recommendations to address disparities among city types: 
+Based on the results, here are three recommendations: 
 
 1. Urban neighborhoods have a staggering 59,602 total drivers serving 1,625 riders. There are sufficient drivers to support higher rider demand, yet a $0.67 average fare per driver will lead to massive turnover if rider demand doesn't pick up soon. PyBer must invest in promotion and advertisement quickly to increase rider demand, retain driver supply, and increase profits in urban neighborhoods. If rider demand generation is not addressed quickly, PyBer may earn a bad reputation with drivers and may be challenged with driver demand generation in the near future. Furthermore, given the fact that urban neighborhoods bring the most business to PyBer, rider demand generation in urban neighborhoods must be the number one priority to ensure business expansion today and in the near future. 
 
